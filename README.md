@@ -1,2 +1,4 @@
 # hello-world
-It is the first github program.
+
+Hi, I'm Kiky. I like programming.
+This is my first github program.
